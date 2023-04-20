@@ -2,7 +2,7 @@
 ESP uploader board for programming Espressif ESP series microcontrollers and other boards
 
 [![](https://img.shields.io/github/v/release/srg74/ESP-uploader)](https://img.shields.io/github/v/release/srg74/ESP-uploader)
-[![License: CC0](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/srg74/ESP-uploader/blob/master/LICENSE)
+[![License: CC0](https://img.shields.io/badge/License-CC0)-blue.svg?style=flat-square)](https://github.com/srg74/ESP-uploader-CH340C/blob/master/LICENSE)
 
 I appreciate your support for my project! [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VU7L89Z2RR7S4&source=url)
 
