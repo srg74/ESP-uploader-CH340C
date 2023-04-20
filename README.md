@@ -1,4 +1,5 @@
 # ESP-uploader-CH340C
+
 ESP uploader board for programming Espressif ESP series microcontrollers and other boards
 
 [![](https://img.shields.io/github/v/release/srg74/ESP-uploader)](https://img.shields.io/github/v/release/srg74/ESP-uploader)
@@ -10,17 +11,17 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 
 ![Board](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C.png)
 
-```
-ESP uploader have following features:
-```
--   CH340C USB to UART bridge;
--   USB-C connector;
--   Auto reset circuit;
--   Selectable dual voltage on VCC pin to power your board. 5V, 3.3V
--   TX/RX activity LEDs;
--   USB power indicator LED;
--   Bread board friendly 6 pin header connector.
+## ESP uploader have following features:
 
-## CH340C reference documents
+- CH340C USB to UART bridge;
+- USB-C connector;
+- Auto reset circuit;
+- Selectable dual voltage on VCC pin to power your board. 5V, 3.3V
+- TX/RX activity LEDs;
+- USB power indicator LED;
+- Bread board friendly 6 pin header connector.
 
--   [Data sheet](https://www.mpja.com/download/35227cpdata.pdf) - CH340C data sheet
+### ESP uploader CH340C reference documents
+
+- [Pinout](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C-pinout.pdf)
+- [Data sheet](https://www.mpja.com/download/35227cpdata.pdf) - CH340C data sheet
