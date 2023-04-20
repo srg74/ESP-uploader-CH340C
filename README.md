@@ -23,5 +23,6 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 
 ### ESP uploader CH340C reference documents
 
-- [Pinout](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C-pinout.pdf)
+- [Pinout](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C-pinout.pdf) diagram
+- [Schematic](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C_schematic.pdf)
 - [Data sheet](https://www.mpja.com/download/35227cpdata.pdf) - CH340C data sheet
