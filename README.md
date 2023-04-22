@@ -21,6 +21,8 @@ I appreciate your support for my project! [![](https://www.paypalobjects.com/en_
 - USB power indicator LED;
 - Bread board friendly 6 pin header connector.
 
+Board is available at Tindie store [![tindie](https://github.com/srg74/WLED-ESP32-pico/blob/main/images/tindie-logo@2x.png)](https://www.tindie.com/products/30048/)
+
 ### ESP uploader CH340C reference documents
 
 - [Pinout](https://github.com/srg74/ESP-uploader-CH340C/blob/main/resources/ESP-uploader-CH340C-pinout.pdf) diagram
